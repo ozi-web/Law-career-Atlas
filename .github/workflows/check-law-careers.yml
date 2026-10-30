@@ -42,7 +42,8 @@ jobs:
           git add data/live_jobs.json index.html
           if ! git diff --cached --quiet; then
             git commit -m 'Update verified law vacancy records'
-            git push
+            git pull --rebase origin main
+            git push origin HEAD:main
           fi
       - name: Summarize findings and send optional GitHub Issues alerts
         continue-on-error: true
