@@ -1,67 +1,18 @@
 {
   "meta": {
-    "generatedAt": "2026-10-30T06:37:32Z",
-    "lastAttemptAt": "2026-10-30T06:37:32Z",
-    "lastSuccessfulAt": "2026-10-30T06:37:32Z",
+    "lastAttemptAt": null,
+    "lastSuccessfulAt": null,
     "baseline": true,
     "configuredSources": 65,
     "verifiedFeeds": 1,
-    "verifiedFeedsSuccessful": 1,
-    "limitedPageChecks": 50,
-    "failedSources": 14,
+    "verifiedFeedsSuccessful": 0,
+    "limitedPageChecks": 0,
+    "failedSources": 0,
     "newRolesLastRun": 0,
     "deadlineChangesLastRun": 0,
-    "unlistedLastRun": 0,
-    "sourceCoverage": "Only configured feeds are monitored. No platform can guarantee every vacancy from all firms."
+    "sourceCoverage": "First automated check not run. Only Clifford Chance currently has an identified structured feed; other sources are partial official-page checks."
   },
-  "jobs": [
-    {
-      "id": "clifford-chance-smartrecruiters:744000158323828",
-      "sourceId": "clifford-chance-smartrecruiters",
-      "firmId": "clifford-chance",
-      "company": "Clifford Chance",
-      "title": "Mid-level Commercial Projects Lawyer",
-      "location": "Dubai, UAE",
-      "url": "https://jobs.smartrecruiters.com/CliffordChance/744000158323828-mid-level-commercial-projects-lawyer?oga=true",
-      "type": "Legal role",
-      "level": "Experienced / qualified",
-      "postedDate": "2026-10-28",
-      "deadline": "",
-      "deadlineVerifiedBy": "",
-      "eligibilityWarning": "",
-      "confidence": "structured-feed",
-      "provider": "smartrecruiters",
-      "firstSeenAt": "2026-10-30T06:37:32Z",
-      "lastSeenAt": "2026-10-30T06:37:32Z",
-      "missingChecks": 0,
-      "status": "listed",
-      "lastSuccessfulSourceAt": "2026-10-30T06:37:32Z",
-      "deadlineStatus": "not published"
-    },
-    {
-      "id": "clifford-chance-smartrecruiters:744000147949838",
-      "sourceId": "clifford-chance-smartrecruiters",
-      "firmId": "clifford-chance",
-      "company": "Clifford Chance",
-      "title": "Middle East Summer Vacation Scheme and Training Contract",
-      "location": "Dubai, UAE",
-      "url": "https://jobs.smartrecruiters.com/CliffordChance/744000147949838-middle-east-summer-vacation-scheme-and-training-contract?oga=true",
-      "type": "Vacation scheme",
-      "level": "Graduate / early career",
-      "postedDate": "2026-09-07",
-      "deadline": "",
-      "deadlineVerifiedBy": "",
-      "eligibilityWarning": "",
-      "confidence": "structured-feed",
-      "provider": "smartrecruiters",
-      "firstSeenAt": "2026-10-30T06:37:32Z",
-      "lastSeenAt": "2026-10-30T06:37:32Z",
-      "missingChecks": 0,
-      "status": "listed",
-      "lastSuccessfulSourceAt": "2026-10-30T06:37:32Z",
-      "deadlineStatus": "not published"
-    }
-  ],
+  "jobs": [],
   "sources": [
     {
       "id": "clifford-chance-smartrecruiters",
@@ -69,12 +20,9 @@
       "company": "Clifford Chance",
       "url": "https://careers.smartrecruiters.com/CliffordChance",
       "provider": "smartrecruiters",
-      "status": "ok",
-      "capability": "verified-feed",
-      "lastAttemptAt": "2026-10-30T06:37:32Z",
-      "lastSuccessfulAt": "2026-10-30T06:37:32Z",
-      "message": "Company-specific structured jobs feed",
-      "matchingJobs": 2
+      "status": "not_checked",
+      "capability": "configured",
+      "matchingJobs": 0
     },
     {
       "id": "a-o-shearman-page",
@@ -82,11 +30,8 @@
       "company": "A&O Shearman",
       "url": "https://careers.aoshearman.com/en/early-careers-uae",
       "provider": "html-jsonld",
-      "status": "limited",
-      "capability": "page-no-job-feed",
-      "lastAttemptAt": "2026-10-30T06:37:32Z",
-      "lastSuccessfulAt": "2026-10-30T06:37:32Z",
-      "message": "Career page accessible; only embedded structured JobPosting records can be extracted",
+      "status": "not_checked",
+      "capability": "configured",
       "matchingJobs": 0
     },
     {
@@ -95,11 +40,8 @@
       "company": "Ashurst Perkins Coie",
       "url": "https://www.ashurstperkinscoie.com/en/careers/",
       "provider": "html-jsonld",
-      "status": "limited",
-      "capability": "page-no-job-feed",
-      "lastAttemptAt": "2026-10-30T06:37:32Z",
-      "lastSuccessfulAt": "2026-10-30T06:37:32Z",
-      "message": "Career page accessible; only embedded structured JobPosting records can be extracted",
+      "status": "not_checked",
+      "capability": "configured",
       "matchingJobs": 0
     },
     {
@@ -108,11 +50,8 @@
       "company": "White & Case",
       "url": "https://www.whitecase.com/careers/locations/united-arab-emirates",
       "provider": "html-jsonld",
-      "status": "limited",
-      "capability": "page-no-job-feed",
-      "lastAttemptAt": "2026-10-30T06:37:32Z",
-      "lastSuccessfulAt": "2026-10-30T06:37:32Z",
-      "message": "Career page accessible; only embedded structured JobPosting records can be extracted",
+      "status": "not_checked",
+      "capability": "configured",
       "matchingJobs": 0
     },
     {
@@ -121,11 +60,8 @@
       "company": "Gibson Dunn",
       "url": "https://www.gibsondunn.com/careers/law-students/",
       "provider": "html-jsonld",
-      "status": "limited",
-      "capability": "page-no-job-feed",
-      "lastAttemptAt": "2026-10-30T06:37:32Z",
-      "lastSuccessfulAt": "2026-10-30T06:37:32Z",
-      "message": "Career page accessible; only embedded structured JobPosting records can be extracted",
+      "status": "not_checked",
+      "capability": "configured",
       "matchingJobs": 0
     },
     {
@@ -134,11 +70,8 @@
       "company": "Akin",
       "url": "https://www.akingump.com/en/careers/middle-east-early-careers/uae-early-careers",
       "provider": "html-jsonld",
-      "status": "failed",
-      "capability": "unavailable",
-      "lastAttemptAt": "2026-10-30T06:37:32Z",
-      "lastSuccessfulAt": "",
-      "message": "HTTPError: HTTP Error 403: Forbidden",
+      "status": "not_checked",
+      "capability": "configured",
       "matchingJobs": 0
     },
     {
@@ -147,11 +80,8 @@
       "company": "Stephenson Harwood",
       "url": "https://www.shlegal.com/careers/early-careers/early-careers-dubai/",
       "provider": "html-jsonld",
-      "status": "limited",
-      "capability": "page-no-job-feed",
-      "lastAttemptAt": "2026-10-30T06:37:32Z",
-      "lastSuccessfulAt": "2026-10-30T06:37:32Z",
-      "message": "Career page accessible; only embedded structured JobPosting records can be extracted",
+      "status": "not_checked",
+      "capability": "configured",
       "matchingJobs": 0
     },
     {
@@ -160,11 +90,8 @@
       "company": "Pinsent Masons",
       "url": "https://www.pinsentmasons.com/careers",
       "provider": "html-jsonld",
-      "status": "limited",
-      "capability": "page-no-job-feed",
-      "lastAttemptAt": "2026-10-30T06:37:32Z",
-      "lastSuccessfulAt": "2026-10-30T06:37:32Z",
-      "message": "Career page accessible; only embedded structured JobPosting records can be extracted",
+      "status": "not_checked",
+      "capability": "configured",
       "matchingJobs": 0
     },
     {
@@ -173,11 +100,8 @@
       "company": "Trowers & Hamlins",
       "url": "https://www.trowers.com/careers",
       "provider": "html-jsonld",
-      "status": "limited",
-      "capability": "page-no-job-feed",
-      "lastAttemptAt": "2026-10-30T06:37:32Z",
-      "lastSuccessfulAt": "2026-10-30T06:37:32Z",
-      "message": "Career page accessible; only embedded structured JobPosting records can be extracted",
+      "status": "not_checked",
+      "capability": "configured",
       "matchingJobs": 0
     },
     {
@@ -186,11 +110,8 @@
       "company": "Covington & Burling",
       "url": "https://www.cov.com/en/careers/lawyers/dubai/our-opportunities",
       "provider": "html-jsonld",
-      "status": "limited",
-      "capability": "page-no-job-feed",
-      "lastAttemptAt": "2026-10-30T06:37:32Z",
-      "lastSuccessfulAt": "2026-10-30T06:37:32Z",
-      "message": "Career page accessible; only embedded structured JobPosting records can be extracted",
+      "status": "not_checked",
+      "capability": "configured",
       "matchingJobs": 0
     },
     {
@@ -199,11 +120,8 @@
       "company": "Al Tamimi & Company",
       "url": "https://tamimi.talentera.com/",
       "provider": "html-jsonld",
-      "status": "limited",
-      "capability": "page-no-job-feed",
-      "lastAttemptAt": "2026-10-30T06:37:32Z",
-      "lastSuccessfulAt": "2026-10-30T06:37:32Z",
-      "message": "Career page accessible; only embedded structured JobPosting records can be extracted",
+      "status": "not_checked",
+      "capability": "configured",
       "matchingJobs": 0
     },
     {
@@ -212,11 +130,8 @@
       "company": "Hadef & Partners",
       "url": "https://hadefpartners.com/careers/",
       "provider": "html-jsonld",
-      "status": "limited",
-      "capability": "page-no-job-feed",
-      "lastAttemptAt": "2026-10-30T06:37:32Z",
-      "lastSuccessfulAt": "2026-10-30T06:37:32Z",
-      "message": "Career page accessible; only embedded structured JobPosting records can be extracted",
+      "status": "not_checked",
+      "capability": "configured",
       "matchingJobs": 0
     },
     {
@@ -225,11 +140,8 @@
       "company": "Herbert Smith Freehills Kramer",
       "url": "https://www.hsfkramer.com/careers",
       "provider": "html-jsonld",
-      "status": "failed",
-      "capability": "unavailable",
-      "lastAttemptAt": "2026-10-30T06:37:32Z",
-      "lastSuccessfulAt": "",
-      "message": "HTTPError: HTTP Error 403: Forbidden",
+      "status": "not_checked",
+      "capability": "configured",
       "matchingJobs": 0
     },
     {
@@ -238,11 +150,8 @@
       "company": "DLA Piper",
       "url": "https://www.dlapiper.com/en/careers",
       "provider": "html-jsonld",
-      "status": "failed",
-      "capability": "unavailable",
-      "lastAttemptAt": "2026-10-30T06:37:32Z",
-      "lastSuccessfulAt": "",
-      "message": "HTTPError: HTTP Error 429: Too Many Requests",
+      "status": "not_checked",
+      "capability": "configured",
       "matchingJobs": 0
     },
     {
@@ -251,11 +160,8 @@
       "company": "Norton Rose Fulbright",
       "url": "https://www.nortonrosefulbright.com/en/careers",
       "provider": "html-jsonld",
-      "status": "limited",
-      "capability": "page-no-job-feed",
-      "lastAttemptAt": "2026-10-30T06:37:32Z",
-      "lastSuccessfulAt": "2026-10-30T06:37:32Z",
-      "message": "Career page accessible; only embedded structured JobPosting records can be extracted",
+      "status": "not_checked",
+      "capability": "configured",
       "matchingJobs": 0
     },
     {
@@ -264,11 +170,8 @@
       "company": "Addleshaw Goddard",
       "url": "https://www.addleshawgoddard.com/en/careers/",
       "provider": "html-jsonld",
-      "status": "limited",
-      "capability": "page-no-job-feed",
-      "lastAttemptAt": "2026-10-30T06:37:32Z",
-      "lastSuccessfulAt": "2026-10-30T06:37:32Z",
-      "message": "Career page accessible; only embedded structured JobPosting records can be extracted",
+      "status": "not_checked",
+      "capability": "configured",
       "matchingJobs": 0
     },
     {
@@ -277,11 +180,8 @@
       "company": "Baker McKenzie",
       "url": "https://www.bakermckenzie.com/en/careers",
       "provider": "html-jsonld",
-      "status": "limited",
-      "capability": "page-no-job-feed",
-      "lastAttemptAt": "2026-10-30T06:37:32Z",
-      "lastSuccessfulAt": "2026-10-30T06:37:32Z",
-      "message": "Career page accessible; only embedded structured JobPosting records can be extracted",
+      "status": "not_checked",
+      "capability": "configured",
       "matchingJobs": 0
     },
     {
@@ -290,11 +190,8 @@
       "company": "Dentons",
       "url": "https://www.dentons.com/en/careers",
       "provider": "html-jsonld",
-      "status": "failed",
-      "capability": "unavailable",
-      "lastAttemptAt": "2026-10-30T06:37:32Z",
-      "lastSuccessfulAt": "",
-      "message": "HTTPError: HTTP Error 403: Forbidden",
+      "status": "not_checked",
+      "capability": "configured",
       "matchingJobs": 0
     },
     {
@@ -303,11 +200,8 @@
       "company": "Latham & Watkins",
       "url": "https://www.lw.com/en/careers",
       "provider": "html-jsonld",
-      "status": "failed",
-      "capability": "unavailable",
-      "lastAttemptAt": "2026-10-30T06:37:32Z",
-      "lastSuccessfulAt": "",
-      "message": "HTTPError: HTTP Error 404: Not Found",
+      "status": "not_checked",
+      "capability": "configured",
       "matchingJobs": 0
     },
     {
@@ -316,11 +210,8 @@
       "company": "Hogan Lovells",
       "url": "https://www.hoganlovells.com/en/careers",
       "provider": "html-jsonld",
-      "status": "limited",
-      "capability": "page-no-job-feed",
-      "lastAttemptAt": "2026-10-30T06:37:32Z",
-      "lastSuccessfulAt": "2026-10-30T06:37:32Z",
-      "message": "Career page accessible; only embedded structured JobPosting records can be extracted",
+      "status": "not_checked",
+      "capability": "configured",
       "matchingJobs": 0
     },
     {
@@ -329,11 +220,8 @@
       "company": "Freshfields",
       "url": "https://www.freshfields.com/en-gb/careers",
       "provider": "html-jsonld",
-      "status": "limited",
-      "capability": "page-no-job-feed",
-      "lastAttemptAt": "2026-10-30T06:37:32Z",
-      "lastSuccessfulAt": "2026-10-30T06:37:32Z",
-      "message": "Career page accessible; only embedded structured JobPosting records can be extracted",
+      "status": "not_checked",
+      "capability": "configured",
       "matchingJobs": 0
     },
     {
@@ -342,11 +230,8 @@
       "company": "Slaughter and May",
       "url": "https://www.slaughterandmay.com/careers/",
       "provider": "html-jsonld",
-      "status": "limited",
-      "capability": "page-no-job-feed",
-      "lastAttemptAt": "2026-10-30T06:37:32Z",
-      "lastSuccessfulAt": "2026-10-30T06:37:32Z",
-      "message": "Career page accessible; only embedded structured JobPosting records can be extracted",
+      "status": "not_checked",
+      "capability": "configured",
       "matchingJobs": 0
     },
     {
@@ -355,11 +240,8 @@
       "company": "CMS",
       "url": "https://cms.law/en/int/careers",
       "provider": "html-jsonld",
-      "status": "failed",
-      "capability": "unavailable",
-      "lastAttemptAt": "2026-10-30T06:37:32Z",
-      "lastSuccessfulAt": "",
-      "message": "HTTPError: HTTP Error 404: Not Found",
+      "status": "not_checked",
+      "capability": "configured",
       "matchingJobs": 0
     },
     {
@@ -368,11 +250,8 @@
       "company": "Eversheds Sutherland",
       "url": "https://www.eversheds-sutherland.com/en/global/careers",
       "provider": "html-jsonld",
-      "status": "failed",
-      "capability": "unavailable",
-      "lastAttemptAt": "2026-10-30T06:37:32Z",
-      "lastSuccessfulAt": "",
-      "message": "HTTPError: HTTP Error 403: Forbidden",
+      "status": "not_checked",
+      "capability": "configured",
       "matchingJobs": 0
     },
     {
@@ -381,11 +260,8 @@
       "company": "Simmons & Simmons",
       "url": "https://www.simmons-simmons.com/en/careers",
       "provider": "html-jsonld",
-      "status": "limited",
-      "capability": "page-no-job-feed",
-      "lastAttemptAt": "2026-10-30T06:37:32Z",
-      "lastSuccessfulAt": "2026-10-30T06:37:32Z",
-      "message": "Career page accessible; only embedded structured JobPosting records can be extracted",
+      "status": "not_checked",
+      "capability": "configured",
       "matchingJobs": 0
     },
     {
@@ -394,11 +270,8 @@
       "company": "Clyde & Co",
       "url": "https://www.clydeco.com/en/careers",
       "provider": "html-jsonld",
-      "status": "limited",
-      "capability": "page-no-job-feed",
-      "lastAttemptAt": "2026-10-30T06:37:32Z",
-      "lastSuccessfulAt": "2026-10-30T06:37:32Z",
-      "message": "Career page accessible; only embedded structured JobPosting records can be extracted",
+      "status": "not_checked",
+      "capability": "configured",
       "matchingJobs": 0
     },
     {
@@ -407,11 +280,8 @@
       "company": "Bird & Bird",
       "url": "https://www.twobirds.com/en/careers",
       "provider": "html-jsonld",
-      "status": "limited",
-      "capability": "page-no-job-feed",
-      "lastAttemptAt": "2026-10-30T06:37:32Z",
-      "lastSuccessfulAt": "2026-10-30T06:37:32Z",
-      "message": "Career page accessible; only embedded structured JobPosting records can be extracted",
+      "status": "not_checked",
+      "capability": "configured",
       "matchingJobs": 0
     },
     {
@@ -420,11 +290,8 @@
       "company": "Charles Russell Speechlys",
       "url": "https://www.charlesrussellspeechlys.com/en/careers/",
       "provider": "html-jsonld",
-      "status": "limited",
-      "capability": "page-no-job-feed",
-      "lastAttemptAt": "2026-10-30T06:37:32Z",
-      "lastSuccessfulAt": "2026-10-30T06:37:32Z",
-      "message": "Career page accessible; only embedded structured JobPosting records can be extracted",
+      "status": "not_checked",
+      "capability": "configured",
       "matchingJobs": 0
     },
     {
@@ -433,11 +300,8 @@
       "company": "Watson Farley & Williams",
       "url": "https://www.wfw.com/careers/",
       "provider": "html-jsonld",
-      "status": "limited",
-      "capability": "page-no-job-feed",
-      "lastAttemptAt": "2026-10-30T06:37:32Z",
-      "lastSuccessfulAt": "2026-10-30T06:37:32Z",
-      "message": "Career page accessible; only embedded structured JobPosting records can be extracted",
+      "status": "not_checked",
+      "capability": "configured",
       "matchingJobs": 0
     },
     {
@@ -446,11 +310,8 @@
       "company": "HFW",
       "url": "https://www.hfw.com/careers/",
       "provider": "html-jsonld",
-      "status": "limited",
-      "capability": "page-no-job-feed",
-      "lastAttemptAt": "2026-10-30T06:37:32Z",
-      "lastSuccessfulAt": "2026-10-30T06:37:32Z",
-      "message": "Career page accessible; only embedded structured JobPosting records can be extracted",
+      "status": "not_checked",
+      "capability": "configured",
       "matchingJobs": 0
     },
     {
@@ -459,11 +320,8 @@
       "company": "Gowling WLG",
       "url": "https://gowlingwlg.com/en/careers",
       "provider": "html-jsonld",
-      "status": "limited",
-      "capability": "page-no-job-feed",
-      "lastAttemptAt": "2026-10-30T06:37:32Z",
-      "lastSuccessfulAt": "2026-10-30T06:37:32Z",
-      "message": "Career page accessible; only embedded structured JobPosting records can be extracted",
+      "status": "not_checked",
+      "capability": "configured",
       "matchingJobs": 0
     },
     {
@@ -472,11 +330,8 @@
       "company": "Gateley",
       "url": "https://gateleyplc.com/careers/",
       "provider": "html-jsonld",
-      "status": "limited",
-      "capability": "page-no-job-feed",
-      "lastAttemptAt": "2026-10-30T06:37:32Z",
-      "lastSuccessfulAt": "2026-10-30T06:37:32Z",
-      "message": "Career page accessible; only embedded structured JobPosting records can be extracted",
+      "status": "not_checked",
+      "capability": "configured",
       "matchingJobs": 0
     },
     {
@@ -485,11 +340,8 @@
       "company": "Kennedys",
       "url": "https://kennedyslaw.com/en/careers/",
       "provider": "html-jsonld",
-      "status": "failed",
-      "capability": "unavailable",
-      "lastAttemptAt": "2026-10-30T06:37:32Z",
-      "lastSuccessfulAt": "",
-      "message": "HTTPError: HTTP Error 403: Forbidden",
+      "status": "not_checked",
+      "capability": "configured",
       "matchingJobs": 0
     },
     {
@@ -498,11 +350,8 @@
       "company": "DAC Beachcroft",
       "url": "https://www.dacbeachcroft.com/en/Careers",
       "provider": "html-jsonld",
-      "status": "failed",
-      "capability": "unavailable",
-      "lastAttemptAt": "2026-10-30T06:37:32Z",
-      "lastSuccessfulAt": "",
-      "message": "HTTPError: HTTP Error 404: Not Found",
+      "status": "not_checked",
+      "capability": "configured",
       "matchingJobs": 0
     },
     {
@@ -511,11 +360,8 @@
       "company": "RPC",
       "url": "https://www.rpclegal.com/careers/",
       "provider": "html-jsonld",
-      "status": "limited",
-      "capability": "page-no-job-feed",
-      "lastAttemptAt": "2026-10-30T06:37:32Z",
-      "lastSuccessfulAt": "2026-10-30T06:37:32Z",
-      "message": "Career page accessible; only embedded structured JobPosting records can be extracted",
+      "status": "not_checked",
+      "capability": "configured",
       "matchingJobs": 0
     },
     {
@@ -524,11 +370,8 @@
       "company": "Bryan Cave Leighton Paisner",
       "url": "https://www.bclplaw.com/en-US/careers.html",
       "provider": "html-jsonld",
-      "status": "limited",
-      "capability": "page-no-job-feed",
-      "lastAttemptAt": "2026-10-30T06:37:32Z",
-      "lastSuccessfulAt": "2026-10-30T06:37:32Z",
-      "message": "Career page accessible; only embedded structured JobPosting records can be extracted",
+      "status": "not_checked",
+      "capability": "configured",
       "matchingJobs": 0
     },
     {
@@ -537,11 +380,8 @@
       "company": "Squire Patton Boggs",
       "url": "https://www.squirepattonboggs.com/en/careers",
       "provider": "html-jsonld",
-      "status": "limited",
-      "capability": "page-no-job-feed",
-      "lastAttemptAt": "2026-10-30T06:37:32Z",
-      "lastSuccessfulAt": "2026-10-30T06:37:32Z",
-      "message": "Career page accessible; only embedded structured JobPosting records can be extracted",
+      "status": "not_checked",
+      "capability": "configured",
       "matchingJobs": 0
     },
     {
@@ -550,11 +390,8 @@
       "company": "Taylor Wessing",
       "url": "https://www.taylorwessing.com/en/careers",
       "provider": "html-jsonld",
-      "status": "failed",
-      "capability": "unavailable",
-      "lastAttemptAt": "2026-10-30T06:37:32Z",
-      "lastSuccessfulAt": "",
-      "message": "HTTPError: HTTP Error 403: Forbidden",
+      "status": "not_checked",
+      "capability": "configured",
       "matchingJobs": 0
     },
     {
@@ -563,11 +400,8 @@
       "company": "Fieldfisher",
       "url": "https://www.fieldfisher.com/en/careers",
       "provider": "html-jsonld",
-      "status": "failed",
-      "capability": "unavailable",
-      "lastAttemptAt": "2026-10-30T06:37:32Z",
-      "lastSuccessfulAt": "",
-      "message": "HTTPError: HTTP Error 403: Forbidden",
+      "status": "not_checked",
+      "capability": "configured",
       "matchingJobs": 0
     },
     {
@@ -576,11 +410,8 @@
       "company": "DWF",
       "url": "https://dwfgroup.com/en/careers",
       "provider": "html-jsonld",
-      "status": "limited",
-      "capability": "page-no-job-feed",
-      "lastAttemptAt": "2026-10-30T06:37:32Z",
-      "lastSuccessfulAt": "2026-10-30T06:37:32Z",
-      "message": "Career page accessible; only embedded structured JobPosting records can be extracted",
+      "status": "not_checked",
+      "capability": "configured",
       "matchingJobs": 0
     },
     {
@@ -589,11 +420,8 @@
       "company": "Withersworldwide",
       "url": "https://www.withersworldwide.com/en-gb/careers",
       "provider": "html-jsonld",
-      "status": "limited",
-      "capability": "page-no-job-feed",
-      "lastAttemptAt": "2026-10-30T06:37:32Z",
-      "lastSuccessfulAt": "2026-10-30T06:37:32Z",
-      "message": "Career page accessible; only embedded structured JobPosting records can be extracted",
+      "status": "not_checked",
+      "capability": "configured",
       "matchingJobs": 0
     },
     {
@@ -602,11 +430,8 @@
       "company": "Mishcon de Reya",
       "url": "https://www.mishcon.com/careers",
       "provider": "html-jsonld",
-      "status": "limited",
-      "capability": "page-no-job-feed",
-      "lastAttemptAt": "2026-10-30T06:37:32Z",
-      "lastSuccessfulAt": "2026-10-30T06:37:32Z",
-      "message": "Career page accessible; only embedded structured JobPosting records can be extracted",
+      "status": "not_checked",
+      "capability": "configured",
       "matchingJobs": 0
     },
     {
@@ -615,11 +440,8 @@
       "company": "Osborne Clarke",
       "url": "https://www.osborneclarke.com/careers",
       "provider": "html-jsonld",
-      "status": "limited",
-      "capability": "page-no-job-feed",
-      "lastAttemptAt": "2026-10-30T06:37:32Z",
-      "lastSuccessfulAt": "2026-10-30T06:37:32Z",
-      "message": "Career page accessible; only embedded structured JobPosting records can be extracted",
+      "status": "not_checked",
+      "capability": "configured",
       "matchingJobs": 0
     },
     {
@@ -628,11 +450,8 @@
       "company": "Weightmans",
       "url": "https://www.weightmans.com/careers/",
       "provider": "html-jsonld",
-      "status": "limited",
-      "capability": "page-no-job-feed",
-      "lastAttemptAt": "2026-10-30T06:37:32Z",
-      "lastSuccessfulAt": "2026-10-30T06:37:32Z",
-      "message": "Career page accessible; only embedded structured JobPosting records can be extracted",
+      "status": "not_checked",
+      "capability": "configured",
       "matchingJobs": 0
     },
     {
@@ -641,11 +460,8 @@
       "company": "Shoosmiths",
       "url": "https://www.shoosmiths.com/careers/",
       "provider": "html-jsonld",
-      "status": "failed",
-      "capability": "unavailable",
-      "lastAttemptAt": "2026-10-30T06:37:32Z",
-      "lastSuccessfulAt": "",
-      "message": "HTTPError: HTTP Error 404: Not Found",
+      "status": "not_checked",
+      "capability": "configured",
       "matchingJobs": 0
     },
     {
@@ -654,11 +470,8 @@
       "company": "Travers Smith",
       "url": "https://www.traverssmith.com/join-us/",
       "provider": "html-jsonld",
-      "status": "limited",
-      "capability": "page-no-job-feed",
-      "lastAttemptAt": "2026-10-30T06:37:32Z",
-      "lastSuccessfulAt": "2026-10-30T06:37:32Z",
-      "message": "Career page accessible; only embedded structured JobPosting records can be extracted",
+      "status": "not_checked",
+      "capability": "configured",
       "matchingJobs": 0
     },
     {
@@ -667,11 +480,8 @@
       "company": "Macfarlanes",
       "url": "https://www.macfarlanes.com/join-us/",
       "provider": "html-jsonld",
-      "status": "limited",
-      "capability": "page-no-job-feed",
-      "lastAttemptAt": "2026-10-30T06:37:32Z",
-      "lastSuccessfulAt": "2026-10-30T06:37:32Z",
-      "message": "Career page accessible; only embedded structured JobPosting records can be extracted",
+      "status": "not_checked",
+      "capability": "configured",
       "matchingJobs": 0
     },
     {
@@ -680,11 +490,8 @@
       "company": "Kirkland & Ellis",
       "url": "https://www.kirkland.com/careers",
       "provider": "html-jsonld",
-      "status": "limited",
-      "capability": "page-no-job-feed",
-      "lastAttemptAt": "2026-10-30T06:37:32Z",
-      "lastSuccessfulAt": "2026-10-30T06:37:32Z",
-      "message": "Career page accessible; only embedded structured JobPosting records can be extracted",
+      "status": "not_checked",
+      "capability": "configured",
       "matchingJobs": 0
     },
     {
@@ -693,11 +500,8 @@
       "company": "Skadden",
       "url": "https://www.skadden.com/careers",
       "provider": "html-jsonld",
-      "status": "limited",
-      "capability": "page-no-job-feed",
-      "lastAttemptAt": "2026-10-30T06:37:32Z",
-      "lastSuccessfulAt": "2026-10-30T06:37:32Z",
-      "message": "Career page accessible; only embedded structured JobPosting records can be extracted",
+      "status": "not_checked",
+      "capability": "configured",
       "matchingJobs": 0
     },
     {
@@ -706,11 +510,8 @@
       "company": "Cleary Gottlieb",
       "url": "https://www.clearygottlieb.com/careers",
       "provider": "html-jsonld",
-      "status": "limited",
-      "capability": "page-no-job-feed",
-      "lastAttemptAt": "2026-10-30T06:37:32Z",
-      "lastSuccessfulAt": "2026-10-30T06:37:32Z",
-      "message": "Career page accessible; only embedded structured JobPosting records can be extracted",
+      "status": "not_checked",
+      "capability": "configured",
       "matchingJobs": 0
     },
     {
@@ -719,11 +520,8 @@
       "company": "Paul Hastings",
       "url": "https://www.paulhastings.com/careers",
       "provider": "html-jsonld",
-      "status": "failed",
-      "capability": "unavailable",
-      "lastAttemptAt": "2026-10-30T06:37:32Z",
-      "lastSuccessfulAt": "",
-      "message": "HTTPError: HTTP Error 429: Too Many Requests",
+      "status": "not_checked",
+      "capability": "configured",
       "matchingJobs": 0
     },
     {
@@ -732,11 +530,8 @@
       "company": "King & Spalding",
       "url": "https://www.kslaw.com/careers",
       "provider": "html-jsonld",
-      "status": "limited",
-      "capability": "page-no-job-feed",
-      "lastAttemptAt": "2026-10-30T06:37:32Z",
-      "lastSuccessfulAt": "2026-10-30T06:37:32Z",
-      "message": "Career page accessible; only embedded structured JobPosting records can be extracted",
+      "status": "not_checked",
+      "capability": "configured",
       "matchingJobs": 0
     },
     {
@@ -745,11 +540,8 @@
       "company": "Jones Day",
       "url": "https://www.jonesday.com/en/careers",
       "provider": "html-jsonld",
-      "status": "limited",
-      "capability": "page-no-job-feed",
-      "lastAttemptAt": "2026-10-30T06:37:32Z",
-      "lastSuccessfulAt": "2026-10-30T06:37:32Z",
-      "message": "Career page accessible; only embedded structured JobPosting records can be extracted",
+      "status": "not_checked",
+      "capability": "configured",
       "matchingJobs": 0
     },
     {
@@ -758,11 +550,8 @@
       "company": "Mayer Brown",
       "url": "https://www.mayerbrown.com/en/careers",
       "provider": "html-jsonld",
-      "status": "limited",
-      "capability": "page-no-job-feed",
-      "lastAttemptAt": "2026-10-30T06:37:32Z",
-      "lastSuccessfulAt": "2026-10-30T06:37:32Z",
-      "message": "Career page accessible; only embedded structured JobPosting records can be extracted",
+      "status": "not_checked",
+      "capability": "configured",
       "matchingJobs": 0
     },
     {
@@ -771,11 +560,8 @@
       "company": "Morgan Lewis",
       "url": "https://www.morganlewis.com/careers",
       "provider": "html-jsonld",
-      "status": "limited",
-      "capability": "page-no-job-feed",
-      "lastAttemptAt": "2026-10-30T06:37:32Z",
-      "lastSuccessfulAt": "2026-10-30T06:37:32Z",
-      "message": "Career page accessible; only embedded structured JobPosting records can be extracted",
+      "status": "not_checked",
+      "capability": "configured",
       "matchingJobs": 0
     },
     {
@@ -784,11 +570,8 @@
       "company": "Bracewell",
       "url": "https://bracewell.com/careers",
       "provider": "html-jsonld",
-      "status": "limited",
-      "capability": "page-no-job-feed",
-      "lastAttemptAt": "2026-10-30T06:37:32Z",
-      "lastSuccessfulAt": "2026-10-30T06:37:32Z",
-      "message": "Career page accessible; only embedded structured JobPosting records can be extracted",
+      "status": "not_checked",
+      "capability": "configured",
       "matchingJobs": 0
     },
     {
@@ -797,11 +580,8 @@
       "company": "Vinson & Elkins",
       "url": "https://www.velaw.com/careers/",
       "provider": "html-jsonld",
-      "status": "limited",
-      "capability": "page-no-job-feed",
-      "lastAttemptAt": "2026-10-30T06:37:32Z",
-      "lastSuccessfulAt": "2026-10-30T06:37:32Z",
-      "message": "Career page accessible; only embedded structured JobPosting records can be extracted",
+      "status": "not_checked",
+      "capability": "configured",
       "matchingJobs": 0
     },
     {
@@ -810,11 +590,8 @@
       "company": "Baker Botts",
       "url": "https://www.bakerbotts.com/careers",
       "provider": "html-jsonld",
-      "status": "limited",
-      "capability": "page-no-job-feed",
-      "lastAttemptAt": "2026-10-30T06:37:32Z",
-      "lastSuccessfulAt": "2026-10-30T06:37:32Z",
-      "message": "Career page accessible; only embedded structured JobPosting records can be extracted",
+      "status": "not_checked",
+      "capability": "configured",
       "matchingJobs": 0
     },
     {
@@ -823,11 +600,8 @@
       "company": "K&L Gates",
       "url": "https://www.klgates.com/careers",
       "provider": "html-jsonld",
-      "status": "limited",
-      "capability": "page-no-job-feed",
-      "lastAttemptAt": "2026-10-30T06:37:32Z",
-      "lastSuccessfulAt": "2026-10-30T06:37:32Z",
-      "message": "Career page accessible; only embedded structured JobPosting records can be extracted",
+      "status": "not_checked",
+      "capability": "configured",
       "matchingJobs": 0
     },
     {
@@ -836,11 +610,8 @@
       "company": "Sidley Austin",
       "url": "https://www.sidley.com/en/careers",
       "provider": "html-jsonld",
-      "status": "limited",
-      "capability": "page-no-job-feed",
-      "lastAttemptAt": "2026-10-30T06:37:32Z",
-      "lastSuccessfulAt": "2026-10-30T06:37:32Z",
-      "message": "Career page accessible; only embedded structured JobPosting records can be extracted",
+      "status": "not_checked",
+      "capability": "configured",
       "matchingJobs": 0
     },
     {
@@ -849,11 +620,8 @@
       "company": "Weil Gotshal & Manges",
       "url": "https://www.weil.com/careers",
       "provider": "html-jsonld",
-      "status": "limited",
-      "capability": "page-no-job-feed",
-      "lastAttemptAt": "2026-10-30T06:37:32Z",
-      "lastSuccessfulAt": "2026-10-30T06:37:32Z",
-      "message": "Career page accessible; only embedded structured JobPosting records can be extracted",
+      "status": "not_checked",
+      "capability": "configured",
       "matchingJobs": 0
     },
     {
@@ -862,11 +630,8 @@
       "company": "Milbank",
       "url": "https://www.milbank.com/en/careers.html",
       "provider": "html-jsonld",
-      "status": "failed",
-      "capability": "unavailable",
-      "lastAttemptAt": "2026-10-30T06:37:32Z",
-      "lastSuccessfulAt": "",
-      "message": "HTTPError: HTTP Error 404: Not Found",
+      "status": "not_checked",
+      "capability": "configured",
       "matchingJobs": 0
     },
     {
@@ -875,11 +640,8 @@
       "company": "Dechert",
       "url": "https://www.dechert.com/careers.html",
       "provider": "html-jsonld",
-      "status": "limited",
-      "capability": "page-no-job-feed",
-      "lastAttemptAt": "2026-10-30T06:37:32Z",
-      "lastSuccessfulAt": "2026-10-30T06:37:32Z",
-      "message": "Career page accessible; only embedded structured JobPosting records can be extracted",
+      "status": "not_checked",
+      "capability": "configured",
       "matchingJobs": 0
     },
     {
@@ -888,11 +650,8 @@
       "company": "Greenberg Traurig",
       "url": "https://www.gtlaw.com/en/careers",
       "provider": "html-jsonld",
-      "status": "limited",
-      "capability": "page-no-job-feed",
-      "lastAttemptAt": "2026-10-30T06:37:32Z",
-      "lastSuccessfulAt": "2026-10-30T06:37:32Z",
-      "message": "Career page accessible; only embedded structured JobPosting records can be extracted",
+      "status": "not_checked",
+      "capability": "configured",
       "matchingJobs": 0
     },
     {
@@ -901,11 +660,8 @@
       "company": "Goodwin",
       "url": "https://www.goodwinlaw.com/en/careers",
       "provider": "html-jsonld",
-      "status": "limited",
-      "capability": "page-no-job-feed",
-      "lastAttemptAt": "2026-10-30T06:37:32Z",
-      "lastSuccessfulAt": "2026-10-30T06:37:32Z",
-      "message": "Career page accessible; only embedded structured JobPosting records can be extracted",
+      "status": "not_checked",
+      "capability": "configured",
       "matchingJobs": 0
     }
   ],
