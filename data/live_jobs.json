@@ -1,0 +1,669 @@
+{
+  "meta": {
+    "lastAttemptAt": null,
+    "lastSuccessfulAt": null,
+    "baseline": true,
+    "configuredSources": 65,
+    "verifiedFeeds": 1,
+    "verifiedFeedsSuccessful": 0,
+    "limitedPageChecks": 0,
+    "failedSources": 0,
+    "newRolesLastRun": 0,
+    "deadlineChangesLastRun": 0,
+    "sourceCoverage": "First automated check not run. Only Clifford Chance currently has an identified structured feed; other sources are partial official-page checks."
+  },
+  "jobs": [],
+  "sources": [
+    {
+      "id": "clifford-chance-smartrecruiters",
+      "firmId": "clifford-chance",
+      "company": "Clifford Chance",
+      "url": "https://careers.smartrecruiters.com/CliffordChance",
+      "provider": "smartrecruiters",
+      "status": "not_checked",
+      "capability": "configured",
+      "matchingJobs": 0
+    },
+    {
+      "id": "a-o-shearman-page",
+      "firmId": "a-o-shearman",
+      "company": "A&O Shearman",
+      "url": "https://careers.aoshearman.com/en/early-careers-uae",
+      "provider": "html-jsonld",
+      "status": "not_checked",
+      "capability": "configured",
+      "matchingJobs": 0
+    },
+    {
+      "id": "ashurst-perkins-coie-page",
+      "firmId": "ashurst-perkins-coie",
+      "company": "Ashurst Perkins Coie",
+      "url": "https://www.ashurstperkinscoie.com/en/careers/",
+      "provider": "html-jsonld",
+      "status": "not_checked",
+      "capability": "configured",
+      "matchingJobs": 0
+    },
+    {
+      "id": "white-case-page",
+      "firmId": "white-case",
+      "company": "White & Case",
+      "url": "https://www.whitecase.com/careers/locations/united-arab-emirates",
+      "provider": "html-jsonld",
+      "status": "not_checked",
+      "capability": "configured",
+      "matchingJobs": 0
+    },
+    {
+      "id": "gibson-dunn-page",
+      "firmId": "gibson-dunn",
+      "company": "Gibson Dunn",
+      "url": "https://www.gibsondunn.com/careers/law-students/",
+      "provider": "html-jsonld",
+      "status": "not_checked",
+      "capability": "configured",
+      "matchingJobs": 0
+    },
+    {
+      "id": "akin-page",
+      "firmId": "akin",
+      "company": "Akin",
+      "url": "https://www.akingump.com/en/careers/middle-east-early-careers/uae-early-careers",
+      "provider": "html-jsonld",
+      "status": "not_checked",
+      "capability": "configured",
+      "matchingJobs": 0
+    },
+    {
+      "id": "stephenson-harwood-page",
+      "firmId": "stephenson-harwood",
+      "company": "Stephenson Harwood",
+      "url": "https://www.shlegal.com/careers/early-careers/early-careers-dubai/",
+      "provider": "html-jsonld",
+      "status": "not_checked",
+      "capability": "configured",
+      "matchingJobs": 0
+    },
+    {
+      "id": "pinsent-masons-page",
+      "firmId": "pinsent-masons",
+      "company": "Pinsent Masons",
+      "url": "https://www.pinsentmasons.com/careers",
+      "provider": "html-jsonld",
+      "status": "not_checked",
+      "capability": "configured",
+      "matchingJobs": 0
+    },
+    {
+      "id": "trowers-hamlins-page",
+      "firmId": "trowers-hamlins",
+      "company": "Trowers & Hamlins",
+      "url": "https://www.trowers.com/careers",
+      "provider": "html-jsonld",
+      "status": "not_checked",
+      "capability": "configured",
+      "matchingJobs": 0
+    },
+    {
+      "id": "covington-burling-page",
+      "firmId": "covington-burling",
+      "company": "Covington & Burling",
+      "url": "https://www.cov.com/en/careers/lawyers/dubai/our-opportunities",
+      "provider": "html-jsonld",
+      "status": "not_checked",
+      "capability": "configured",
+      "matchingJobs": 0
+    },
+    {
+      "id": "al-tamimi-company-page",
+      "firmId": "al-tamimi-company",
+      "company": "Al Tamimi & Company",
+      "url": "https://tamimi.talentera.com/",
+      "provider": "html-jsonld",
+      "status": "not_checked",
+      "capability": "configured",
+      "matchingJobs": 0
+    },
+    {
+      "id": "hadef-partners-page",
+      "firmId": "hadef-partners",
+      "company": "Hadef & Partners",
+      "url": "https://hadefpartners.com/careers/",
+      "provider": "html-jsonld",
+      "status": "not_checked",
+      "capability": "configured",
+      "matchingJobs": 0
+    },
+    {
+      "id": "herbert-smith-freehills-kramer-page",
+      "firmId": "herbert-smith-freehills-kramer",
+      "company": "Herbert Smith Freehills Kramer",
+      "url": "https://www.hsfkramer.com/careers",
+      "provider": "html-jsonld",
+      "status": "not_checked",
+      "capability": "configured",
+      "matchingJobs": 0
+    },
+    {
+      "id": "dla-piper-page",
+      "firmId": "dla-piper",
+      "company": "DLA Piper",
+      "url": "https://www.dlapiper.com/en/careers",
+      "provider": "html-jsonld",
+      "status": "not_checked",
+      "capability": "configured",
+      "matchingJobs": 0
+    },
+    {
+      "id": "norton-rose-fulbright-page",
+      "firmId": "norton-rose-fulbright",
+      "company": "Norton Rose Fulbright",
+      "url": "https://www.nortonrosefulbright.com/en/careers",
+      "provider": "html-jsonld",
+      "status": "not_checked",
+      "capability": "configured",
+      "matchingJobs": 0
+    },
+    {
+      "id": "addleshaw-goddard-page",
+      "firmId": "addleshaw-goddard",
+      "company": "Addleshaw Goddard",
+      "url": "https://www.addleshawgoddard.com/en/careers/",
+      "provider": "html-jsonld",
+      "status": "not_checked",
+      "capability": "configured",
+      "matchingJobs": 0
+    },
+    {
+      "id": "baker-mckenzie-page",
+      "firmId": "baker-mckenzie",
+      "company": "Baker McKenzie",
+      "url": "https://www.bakermckenzie.com/en/careers",
+      "provider": "html-jsonld",
+      "status": "not_checked",
+      "capability": "configured",
+      "matchingJobs": 0
+    },
+    {
+      "id": "dentons-page",
+      "firmId": "dentons",
+      "company": "Dentons",
+      "url": "https://www.dentons.com/en/careers",
+      "provider": "html-jsonld",
+      "status": "not_checked",
+      "capability": "configured",
+      "matchingJobs": 0
+    },
+    {
+      "id": "latham-watkins-page",
+      "firmId": "latham-watkins",
+      "company": "Latham & Watkins",
+      "url": "https://www.lw.com/en/careers",
+      "provider": "html-jsonld",
+      "status": "not_checked",
+      "capability": "configured",
+      "matchingJobs": 0
+    },
+    {
+      "id": "hogan-lovells-page",
+      "firmId": "hogan-lovells",
+      "company": "Hogan Lovells",
+      "url": "https://www.hoganlovells.com/en/careers",
+      "provider": "html-jsonld",
+      "status": "not_checked",
+      "capability": "configured",
+      "matchingJobs": 0
+    },
+    {
+      "id": "freshfields-page",
+      "firmId": "freshfields",
+      "company": "Freshfields",
+      "url": "https://www.freshfields.com/en-gb/careers",
+      "provider": "html-jsonld",
+      "status": "not_checked",
+      "capability": "configured",
+      "matchingJobs": 0
+    },
+    {
+      "id": "slaughter-and-may-page",
+      "firmId": "slaughter-and-may",
+      "company": "Slaughter and May",
+      "url": "https://www.slaughterandmay.com/careers/",
+      "provider": "html-jsonld",
+      "status": "not_checked",
+      "capability": "configured",
+      "matchingJobs": 0
+    },
+    {
+      "id": "cms-page",
+      "firmId": "cms",
+      "company": "CMS",
+      "url": "https://cms.law/en/int/careers",
+      "provider": "html-jsonld",
+      "status": "not_checked",
+      "capability": "configured",
+      "matchingJobs": 0
+    },
+    {
+      "id": "eversheds-sutherland-page",
+      "firmId": "eversheds-sutherland",
+      "company": "Eversheds Sutherland",
+      "url": "https://www.eversheds-sutherland.com/en/global/careers",
+      "provider": "html-jsonld",
+      "status": "not_checked",
+      "capability": "configured",
+      "matchingJobs": 0
+    },
+    {
+      "id": "simmons-simmons-page",
+      "firmId": "simmons-simmons",
+      "company": "Simmons & Simmons",
+      "url": "https://www.simmons-simmons.com/en/careers",
+      "provider": "html-jsonld",
+      "status": "not_checked",
+      "capability": "configured",
+      "matchingJobs": 0
+    },
+    {
+      "id": "clyde-co-page",
+      "firmId": "clyde-co",
+      "company": "Clyde & Co",
+      "url": "https://www.clydeco.com/en/careers",
+      "provider": "html-jsonld",
+      "status": "not_checked",
+      "capability": "configured",
+      "matchingJobs": 0
+    },
+    {
+      "id": "bird-bird-page",
+      "firmId": "bird-bird",
+      "company": "Bird & Bird",
+      "url": "https://www.twobirds.com/en/careers",
+      "provider": "html-jsonld",
+      "status": "not_checked",
+      "capability": "configured",
+      "matchingJobs": 0
+    },
+    {
+      "id": "charles-russell-speechlys-page",
+      "firmId": "charles-russell-speechlys",
+      "company": "Charles Russell Speechlys",
+      "url": "https://www.charlesrussellspeechlys.com/en/careers/",
+      "provider": "html-jsonld",
+      "status": "not_checked",
+      "capability": "configured",
+      "matchingJobs": 0
+    },
+    {
+      "id": "watson-farley-williams-page",
+      "firmId": "watson-farley-williams",
+      "company": "Watson Farley & Williams",
+      "url": "https://www.wfw.com/careers/",
+      "provider": "html-jsonld",
+      "status": "not_checked",
+      "capability": "configured",
+      "matchingJobs": 0
+    },
+    {
+      "id": "hfw-page",
+      "firmId": "hfw",
+      "company": "HFW",
+      "url": "https://www.hfw.com/careers/",
+      "provider": "html-jsonld",
+      "status": "not_checked",
+      "capability": "configured",
+      "matchingJobs": 0
+    },
+    {
+      "id": "gowling-wlg-page",
+      "firmId": "gowling-wlg",
+      "company": "Gowling WLG",
+      "url": "https://gowlingwlg.com/en/careers",
+      "provider": "html-jsonld",
+      "status": "not_checked",
+      "capability": "configured",
+      "matchingJobs": 0
+    },
+    {
+      "id": "gateley-page",
+      "firmId": "gateley",
+      "company": "Gateley",
+      "url": "https://gateleyplc.com/careers/",
+      "provider": "html-jsonld",
+      "status": "not_checked",
+      "capability": "configured",
+      "matchingJobs": 0
+    },
+    {
+      "id": "kennedys-page",
+      "firmId": "kennedys",
+      "company": "Kennedys",
+      "url": "https://kennedyslaw.com/en/careers/",
+      "provider": "html-jsonld",
+      "status": "not_checked",
+      "capability": "configured",
+      "matchingJobs": 0
+    },
+    {
+      "id": "dac-beachcroft-page",
+      "firmId": "dac-beachcroft",
+      "company": "DAC Beachcroft",
+      "url": "https://www.dacbeachcroft.com/en/Careers",
+      "provider": "html-jsonld",
+      "status": "not_checked",
+      "capability": "configured",
+      "matchingJobs": 0
+    },
+    {
+      "id": "rpc-page",
+      "firmId": "rpc",
+      "company": "RPC",
+      "url": "https://www.rpclegal.com/careers/",
+      "provider": "html-jsonld",
+      "status": "not_checked",
+      "capability": "configured",
+      "matchingJobs": 0
+    },
+    {
+      "id": "bryan-cave-leighton-paisner-page",
+      "firmId": "bryan-cave-leighton-paisner",
+      "company": "Bryan Cave Leighton Paisner",
+      "url": "https://www.bclplaw.com/en-US/careers.html",
+      "provider": "html-jsonld",
+      "status": "not_checked",
+      "capability": "configured",
+      "matchingJobs": 0
+    },
+    {
+      "id": "squire-patton-boggs-page",
+      "firmId": "squire-patton-boggs",
+      "company": "Squire Patton Boggs",
+      "url": "https://www.squirepattonboggs.com/en/careers",
+      "provider": "html-jsonld",
+      "status": "not_checked",
+      "capability": "configured",
+      "matchingJobs": 0
+    },
+    {
+      "id": "taylor-wessing-page",
+      "firmId": "taylor-wessing",
+      "company": "Taylor Wessing",
+      "url": "https://www.taylorwessing.com/en/careers",
+      "provider": "html-jsonld",
+      "status": "not_checked",
+      "capability": "configured",
+      "matchingJobs": 0
+    },
+    {
+      "id": "fieldfisher-page",
+      "firmId": "fieldfisher",
+      "company": "Fieldfisher",
+      "url": "https://www.fieldfisher.com/en/careers",
+      "provider": "html-jsonld",
+      "status": "not_checked",
+      "capability": "configured",
+      "matchingJobs": 0
+    },
+    {
+      "id": "dwf-page",
+      "firmId": "dwf",
+      "company": "DWF",
+      "url": "https://dwfgroup.com/en/careers",
+      "provider": "html-jsonld",
+      "status": "not_checked",
+      "capability": "configured",
+      "matchingJobs": 0
+    },
+    {
+      "id": "withersworldwide-page",
+      "firmId": "withersworldwide",
+      "company": "Withersworldwide",
+      "url": "https://www.withersworldwide.com/en-gb/careers",
+      "provider": "html-jsonld",
+      "status": "not_checked",
+      "capability": "configured",
+      "matchingJobs": 0
+    },
+    {
+      "id": "mishcon-de-reya-page",
+      "firmId": "mishcon-de-reya",
+      "company": "Mishcon de Reya",
+      "url": "https://www.mishcon.com/careers",
+      "provider": "html-jsonld",
+      "status": "not_checked",
+      "capability": "configured",
+      "matchingJobs": 0
+    },
+    {
+      "id": "osborne-clarke-page",
+      "firmId": "osborne-clarke",
+      "company": "Osborne Clarke",
+      "url": "https://www.osborneclarke.com/careers",
+      "provider": "html-jsonld",
+      "status": "not_checked",
+      "capability": "configured",
+      "matchingJobs": 0
+    },
+    {
+      "id": "weightmans-page",
+      "firmId": "weightmans",
+      "company": "Weightmans",
+      "url": "https://www.weightmans.com/careers/",
+      "provider": "html-jsonld",
+      "status": "not_checked",
+      "capability": "configured",
+      "matchingJobs": 0
+    },
+    {
+      "id": "shoosmiths-page",
+      "firmId": "shoosmiths",
+      "company": "Shoosmiths",
+      "url": "https://www.shoosmiths.com/careers/",
+      "provider": "html-jsonld",
+      "status": "not_checked",
+      "capability": "configured",
+      "matchingJobs": 0
+    },
+    {
+      "id": "travers-smith-page",
+      "firmId": "travers-smith",
+      "company": "Travers Smith",
+      "url": "https://www.traverssmith.com/join-us/",
+      "provider": "html-jsonld",
+      "status": "not_checked",
+      "capability": "configured",
+      "matchingJobs": 0
+    },
+    {
+      "id": "macfarlanes-page",
+      "firmId": "macfarlanes",
+      "company": "Macfarlanes",
+      "url": "https://www.macfarlanes.com/join-us/",
+      "provider": "html-jsonld",
+      "status": "not_checked",
+      "capability": "configured",
+      "matchingJobs": 0
+    },
+    {
+      "id": "kirkland-ellis-page",
+      "firmId": "kirkland-ellis",
+      "company": "Kirkland & Ellis",
+      "url": "https://www.kirkland.com/careers",
+      "provider": "html-jsonld",
+      "status": "not_checked",
+      "capability": "configured",
+      "matchingJobs": 0
+    },
+    {
+      "id": "skadden-page",
+      "firmId": "skadden",
+      "company": "Skadden",
+      "url": "https://www.skadden.com/careers",
+      "provider": "html-jsonld",
+      "status": "not_checked",
+      "capability": "configured",
+      "matchingJobs": 0
+    },
+    {
+      "id": "cleary-gottlieb-page",
+      "firmId": "cleary-gottlieb",
+      "company": "Cleary Gottlieb",
+      "url": "https://www.clearygottlieb.com/careers",
+      "provider": "html-jsonld",
+      "status": "not_checked",
+      "capability": "configured",
+      "matchingJobs": 0
+    },
+    {
+      "id": "paul-hastings-page",
+      "firmId": "paul-hastings",
+      "company": "Paul Hastings",
+      "url": "https://www.paulhastings.com/careers",
+      "provider": "html-jsonld",
+      "status": "not_checked",
+      "capability": "configured",
+      "matchingJobs": 0
+    },
+    {
+      "id": "king-spalding-page",
+      "firmId": "king-spalding",
+      "company": "King & Spalding",
+      "url": "https://www.kslaw.com/careers",
+      "provider": "html-jsonld",
+      "status": "not_checked",
+      "capability": "configured",
+      "matchingJobs": 0
+    },
+    {
+      "id": "jones-day-page",
+      "firmId": "jones-day",
+      "company": "Jones Day",
+      "url": "https://www.jonesday.com/en/careers",
+      "provider": "html-jsonld",
+      "status": "not_checked",
+      "capability": "configured",
+      "matchingJobs": 0
+    },
+    {
+      "id": "mayer-brown-page",
+      "firmId": "mayer-brown",
+      "company": "Mayer Brown",
+      "url": "https://www.mayerbrown.com/en/careers",
+      "provider": "html-jsonld",
+      "status": "not_checked",
+      "capability": "configured",
+      "matchingJobs": 0
+    },
+    {
+      "id": "morgan-lewis-page",
+      "firmId": "morgan-lewis",
+      "company": "Morgan Lewis",
+      "url": "https://www.morganlewis.com/careers",
+      "provider": "html-jsonld",
+      "status": "not_checked",
+      "capability": "configured",
+      "matchingJobs": 0
+    },
+    {
+      "id": "bracewell-page",
+      "firmId": "bracewell",
+      "company": "Bracewell",
+      "url": "https://bracewell.com/careers",
+      "provider": "html-jsonld",
+      "status": "not_checked",
+      "capability": "configured",
+      "matchingJobs": 0
+    },
+    {
+      "id": "vinson-elkins-page",
+      "firmId": "vinson-elkins",
+      "company": "Vinson & Elkins",
+      "url": "https://www.velaw.com/careers/",
+      "provider": "html-jsonld",
+      "status": "not_checked",
+      "capability": "configured",
+      "matchingJobs": 0
+    },
+    {
+      "id": "baker-botts-page",
+      "firmId": "baker-botts",
+      "company": "Baker Botts",
+      "url": "https://www.bakerbotts.com/careers",
+      "provider": "html-jsonld",
+      "status": "not_checked",
+      "capability": "configured",
+      "matchingJobs": 0
+    },
+    {
+      "id": "k-l-gates-page",
+      "firmId": "k-l-gates",
+      "company": "K&L Gates",
+      "url": "https://www.klgates.com/careers",
+      "provider": "html-jsonld",
+      "status": "not_checked",
+      "capability": "configured",
+      "matchingJobs": 0
+    },
+    {
+      "id": "sidley-austin-page",
+      "firmId": "sidley-austin",
+      "company": "Sidley Austin",
+      "url": "https://www.sidley.com/en/careers",
+      "provider": "html-jsonld",
+      "status": "not_checked",
+      "capability": "configured",
+      "matchingJobs": 0
+    },
+    {
+      "id": "weil-gotshal-manges-page",
+      "firmId": "weil-gotshal-manges",
+      "company": "Weil Gotshal & Manges",
+      "url": "https://www.weil.com/careers",
+      "provider": "html-jsonld",
+      "status": "not_checked",
+      "capability": "configured",
+      "matchingJobs": 0
+    },
+    {
+      "id": "milbank-page",
+      "firmId": "milbank",
+      "company": "Milbank",
+      "url": "https://www.milbank.com/en/careers.html",
+      "provider": "html-jsonld",
+      "status": "not_checked",
+      "capability": "configured",
+      "matchingJobs": 0
+    },
+    {
+      "id": "dechert-page",
+      "firmId": "dechert",
+      "company": "Dechert",
+      "url": "https://www.dechert.com/careers.html",
+      "provider": "html-jsonld",
+      "status": "not_checked",
+      "capability": "configured",
+      "matchingJobs": 0
+    },
+    {
+      "id": "greenberg-traurig-page",
+      "firmId": "greenberg-traurig",
+      "company": "Greenberg Traurig",
+      "url": "https://www.gtlaw.com/en/careers",
+      "provider": "html-jsonld",
+      "status": "not_checked",
+      "capability": "configured",
+      "matchingJobs": 0
+    },
+    {
+      "id": "goodwin-page",
+      "firmId": "goodwin",
+      "company": "Goodwin",
+      "url": "https://www.goodwinlaw.com/en/careers",
+      "provider": "html-jsonld",
+      "status": "not_checked",
+      "capability": "configured",
+      "matchingJobs": 0
+    }
+  ],
+  "events": []
+}

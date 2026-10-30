@@ -1,0 +1,466 @@
+{
+  "sources": [
+    {
+      "id": "clifford-chance-smartrecruiters",
+      "firmId": "clifford-chance",
+      "company": "Clifford Chance",
+      "provider": "smartrecruiters",
+      "identifier": "CliffordChance",
+      "url": "https://careers.smartrecruiters.com/CliffordChance",
+      "evidence": "Official published Clifford Chance Dubai and training programme listings on jobs.smartrecruiters.com/CliffordChance/"
+    },
+    {
+      "id": "a-o-shearman-page",
+      "firmId": "a-o-shearman",
+      "company": "A&O Shearman",
+      "provider": "html-jsonld",
+      "url": "https://careers.aoshearman.com/en/early-careers-uae"
+    },
+    {
+      "id": "ashurst-perkins-coie-page",
+      "firmId": "ashurst-perkins-coie",
+      "company": "Ashurst Perkins Coie",
+      "provider": "html-jsonld",
+      "url": "https://www.ashurstperkinscoie.com/en/careers/"
+    },
+    {
+      "id": "white-case-page",
+      "firmId": "white-case",
+      "company": "White & Case",
+      "provider": "html-jsonld",
+      "url": "https://www.whitecase.com/careers/locations/united-arab-emirates"
+    },
+    {
+      "id": "gibson-dunn-page",
+      "firmId": "gibson-dunn",
+      "company": "Gibson Dunn",
+      "provider": "html-jsonld",
+      "url": "https://www.gibsondunn.com/careers/law-students/"
+    },
+    {
+      "id": "akin-page",
+      "firmId": "akin",
+      "company": "Akin",
+      "provider": "html-jsonld",
+      "url": "https://www.akingump.com/en/careers/middle-east-early-careers/uae-early-careers"
+    },
+    {
+      "id": "stephenson-harwood-page",
+      "firmId": "stephenson-harwood",
+      "company": "Stephenson Harwood",
+      "provider": "html-jsonld",
+      "url": "https://www.shlegal.com/careers/early-careers/early-careers-dubai/"
+    },
+    {
+      "id": "pinsent-masons-page",
+      "firmId": "pinsent-masons",
+      "company": "Pinsent Masons",
+      "provider": "html-jsonld",
+      "url": "https://www.pinsentmasons.com/careers"
+    },
+    {
+      "id": "trowers-hamlins-page",
+      "firmId": "trowers-hamlins",
+      "company": "Trowers & Hamlins",
+      "provider": "html-jsonld",
+      "url": "https://www.trowers.com/careers"
+    },
+    {
+      "id": "covington-burling-page",
+      "firmId": "covington-burling",
+      "company": "Covington & Burling",
+      "provider": "html-jsonld",
+      "url": "https://www.cov.com/en/careers/lawyers/dubai/our-opportunities"
+    },
+    {
+      "id": "al-tamimi-company-page",
+      "firmId": "al-tamimi-company",
+      "company": "Al Tamimi & Company",
+      "provider": "html-jsonld",
+      "url": "https://tamimi.talentera.com/"
+    },
+    {
+      "id": "hadef-partners-page",
+      "firmId": "hadef-partners",
+      "company": "Hadef & Partners",
+      "provider": "html-jsonld",
+      "url": "https://hadefpartners.com/careers/"
+    },
+    {
+      "id": "herbert-smith-freehills-kramer-page",
+      "firmId": "herbert-smith-freehills-kramer",
+      "company": "Herbert Smith Freehills Kramer",
+      "provider": "html-jsonld",
+      "url": "https://www.hsfkramer.com/careers"
+    },
+    {
+      "id": "dla-piper-page",
+      "firmId": "dla-piper",
+      "company": "DLA Piper",
+      "provider": "html-jsonld",
+      "url": "https://www.dlapiper.com/en/careers"
+    },
+    {
+      "id": "norton-rose-fulbright-page",
+      "firmId": "norton-rose-fulbright",
+      "company": "Norton Rose Fulbright",
+      "provider": "html-jsonld",
+      "url": "https://www.nortonrosefulbright.com/en/careers"
+    },
+    {
+      "id": "addleshaw-goddard-page",
+      "firmId": "addleshaw-goddard",
+      "company": "Addleshaw Goddard",
+      "provider": "html-jsonld",
+      "url": "https://www.addleshawgoddard.com/en/careers/"
+    },
+    {
+      "id": "baker-mckenzie-page",
+      "firmId": "baker-mckenzie",
+      "company": "Baker McKenzie",
+      "provider": "html-jsonld",
+      "url": "https://www.bakermckenzie.com/en/careers"
+    },
+    {
+      "id": "dentons-page",
+      "firmId": "dentons",
+      "company": "Dentons",
+      "provider": "html-jsonld",
+      "url": "https://www.dentons.com/en/careers"
+    },
+    {
+      "id": "latham-watkins-page",
+      "firmId": "latham-watkins",
+      "company": "Latham & Watkins",
+      "provider": "html-jsonld",
+      "url": "https://www.lw.com/en/careers"
+    },
+    {
+      "id": "hogan-lovells-page",
+      "firmId": "hogan-lovells",
+      "company": "Hogan Lovells",
+      "provider": "html-jsonld",
+      "url": "https://www.hoganlovells.com/en/careers"
+    },
+    {
+      "id": "freshfields-page",
+      "firmId": "freshfields",
+      "company": "Freshfields",
+      "provider": "html-jsonld",
+      "url": "https://www.freshfields.com/en-gb/careers"
+    },
+    {
+      "id": "slaughter-and-may-page",
+      "firmId": "slaughter-and-may",
+      "company": "Slaughter and May",
+      "provider": "html-jsonld",
+      "url": "https://www.slaughterandmay.com/careers/"
+    },
+    {
+      "id": "cms-page",
+      "firmId": "cms",
+      "company": "CMS",
+      "provider": "html-jsonld",
+      "url": "https://cms.law/en/int/careers"
+    },
+    {
+      "id": "eversheds-sutherland-page",
+      "firmId": "eversheds-sutherland",
+      "company": "Eversheds Sutherland",
+      "provider": "html-jsonld",
+      "url": "https://www.eversheds-sutherland.com/en/global/careers"
+    },
+    {
+      "id": "simmons-simmons-page",
+      "firmId": "simmons-simmons",
+      "company": "Simmons & Simmons",
+      "provider": "html-jsonld",
+      "url": "https://www.simmons-simmons.com/en/careers"
+    },
+    {
+      "id": "clyde-co-page",
+      "firmId": "clyde-co",
+      "company": "Clyde & Co",
+      "provider": "html-jsonld",
+      "url": "https://www.clydeco.com/en/careers"
+    },
+    {
+      "id": "bird-bird-page",
+      "firmId": "bird-bird",
+      "company": "Bird & Bird",
+      "provider": "html-jsonld",
+      "url": "https://www.twobirds.com/en/careers"
+    },
+    {
+      "id": "charles-russell-speechlys-page",
+      "firmId": "charles-russell-speechlys",
+      "company": "Charles Russell Speechlys",
+      "provider": "html-jsonld",
+      "url": "https://www.charlesrussellspeechlys.com/en/careers/"
+    },
+    {
+      "id": "watson-farley-williams-page",
+      "firmId": "watson-farley-williams",
+      "company": "Watson Farley & Williams",
+      "provider": "html-jsonld",
+      "url": "https://www.wfw.com/careers/"
+    },
+    {
+      "id": "hfw-page",
+      "firmId": "hfw",
+      "company": "HFW",
+      "provider": "html-jsonld",
+      "url": "https://www.hfw.com/careers/"
+    },
+    {
+      "id": "gowling-wlg-page",
+      "firmId": "gowling-wlg",
+      "company": "Gowling WLG",
+      "provider": "html-jsonld",
+      "url": "https://gowlingwlg.com/en/careers"
+    },
+    {
+      "id": "gateley-page",
+      "firmId": "gateley",
+      "company": "Gateley",
+      "provider": "html-jsonld",
+      "url": "https://gateleyplc.com/careers/"
+    },
+    {
+      "id": "kennedys-page",
+      "firmId": "kennedys",
+      "company": "Kennedys",
+      "provider": "html-jsonld",
+      "url": "https://kennedyslaw.com/en/careers/"
+    },
+    {
+      "id": "dac-beachcroft-page",
+      "firmId": "dac-beachcroft",
+      "company": "DAC Beachcroft",
+      "provider": "html-jsonld",
+      "url": "https://www.dacbeachcroft.com/en/Careers"
+    },
+    {
+      "id": "rpc-page",
+      "firmId": "rpc",
+      "company": "RPC",
+      "provider": "html-jsonld",
+      "url": "https://www.rpclegal.com/careers/"
+    },
+    {
+      "id": "bryan-cave-leighton-paisner-page",
+      "firmId": "bryan-cave-leighton-paisner",
+      "company": "Bryan Cave Leighton Paisner",
+      "provider": "html-jsonld",
+      "url": "https://www.bclplaw.com/en-US/careers.html"
+    },
+    {
+      "id": "squire-patton-boggs-page",
+      "firmId": "squire-patton-boggs",
+      "company": "Squire Patton Boggs",
+      "provider": "html-jsonld",
+      "url": "https://www.squirepattonboggs.com/en/careers"
+    },
+    {
+      "id": "taylor-wessing-page",
+      "firmId": "taylor-wessing",
+      "company": "Taylor Wessing",
+      "provider": "html-jsonld",
+      "url": "https://www.taylorwessing.com/en/careers"
+    },
+    {
+      "id": "fieldfisher-page",
+      "firmId": "fieldfisher",
+      "company": "Fieldfisher",
+      "provider": "html-jsonld",
+      "url": "https://www.fieldfisher.com/en/careers"
+    },
+    {
+      "id": "dwf-page",
+      "firmId": "dwf",
+      "company": "DWF",
+      "provider": "html-jsonld",
+      "url": "https://dwfgroup.com/en/careers"
+    },
+    {
+      "id": "withersworldwide-page",
+      "firmId": "withersworldwide",
+      "company": "Withersworldwide",
+      "provider": "html-jsonld",
+      "url": "https://www.withersworldwide.com/en-gb/careers"
+    },
+    {
+      "id": "mishcon-de-reya-page",
+      "firmId": "mishcon-de-reya",
+      "company": "Mishcon de Reya",
+      "provider": "html-jsonld",
+      "url": "https://www.mishcon.com/careers"
+    },
+    {
+      "id": "osborne-clarke-page",
+      "firmId": "osborne-clarke",
+      "company": "Osborne Clarke",
+      "provider": "html-jsonld",
+      "url": "https://www.osborneclarke.com/careers"
+    },
+    {
+      "id": "weightmans-page",
+      "firmId": "weightmans",
+      "company": "Weightmans",
+      "provider": "html-jsonld",
+      "url": "https://www.weightmans.com/careers/"
+    },
+    {
+      "id": "shoosmiths-page",
+      "firmId": "shoosmiths",
+      "company": "Shoosmiths",
+      "provider": "html-jsonld",
+      "url": "https://www.shoosmiths.com/careers/"
+    },
+    {
+      "id": "travers-smith-page",
+      "firmId": "travers-smith",
+      "company": "Travers Smith",
+      "provider": "html-jsonld",
+      "url": "https://www.traverssmith.com/join-us/"
+    },
+    {
+      "id": "macfarlanes-page",
+      "firmId": "macfarlanes",
+      "company": "Macfarlanes",
+      "provider": "html-jsonld",
+      "url": "https://www.macfarlanes.com/join-us/"
+    },
+    {
+      "id": "kirkland-ellis-page",
+      "firmId": "kirkland-ellis",
+      "company": "Kirkland & Ellis",
+      "provider": "html-jsonld",
+      "url": "https://www.kirkland.com/careers"
+    },
+    {
+      "id": "skadden-page",
+      "firmId": "skadden",
+      "company": "Skadden",
+      "provider": "html-jsonld",
+      "url": "https://www.skadden.com/careers"
+    },
+    {
+      "id": "cleary-gottlieb-page",
+      "firmId": "cleary-gottlieb",
+      "company": "Cleary Gottlieb",
+      "provider": "html-jsonld",
+      "url": "https://www.clearygottlieb.com/careers"
+    },
+    {
+      "id": "paul-hastings-page",
+      "firmId": "paul-hastings",
+      "company": "Paul Hastings",
+      "provider": "html-jsonld",
+      "url": "https://www.paulhastings.com/careers"
+    },
+    {
+      "id": "king-spalding-page",
+      "firmId": "king-spalding",
+      "company": "King & Spalding",
+      "provider": "html-jsonld",
+      "url": "https://www.kslaw.com/careers"
+    },
+    {
+      "id": "jones-day-page",
+      "firmId": "jones-day",
+      "company": "Jones Day",
+      "provider": "html-jsonld",
+      "url": "https://www.jonesday.com/en/careers"
+    },
+    {
+      "id": "mayer-brown-page",
+      "firmId": "mayer-brown",
+      "company": "Mayer Brown",
+      "provider": "html-jsonld",
+      "url": "https://www.mayerbrown.com/en/careers"
+    },
+    {
+      "id": "morgan-lewis-page",
+      "firmId": "morgan-lewis",
+      "company": "Morgan Lewis",
+      "provider": "html-jsonld",
+      "url": "https://www.morganlewis.com/careers"
+    },
+    {
+      "id": "bracewell-page",
+      "firmId": "bracewell",
+      "company": "Bracewell",
+      "provider": "html-jsonld",
+      "url": "https://bracewell.com/careers"
+    },
+    {
+      "id": "vinson-elkins-page",
+      "firmId": "vinson-elkins",
+      "company": "Vinson & Elkins",
+      "provider": "html-jsonld",
+      "url": "https://www.velaw.com/careers/"
+    },
+    {
+      "id": "baker-botts-page",
+      "firmId": "baker-botts",
+      "company": "Baker Botts",
+      "provider": "html-jsonld",
+      "url": "https://www.bakerbotts.com/careers"
+    },
+    {
+      "id": "k-l-gates-page",
+      "firmId": "k-l-gates",
+      "company": "K&L Gates",
+      "provider": "html-jsonld",
+      "url": "https://www.klgates.com/careers"
+    },
+    {
+      "id": "sidley-austin-page",
+      "firmId": "sidley-austin",
+      "company": "Sidley Austin",
+      "provider": "html-jsonld",
+      "url": "https://www.sidley.com/en/careers"
+    },
+    {
+      "id": "weil-gotshal-manges-page",
+      "firmId": "weil-gotshal-manges",
+      "company": "Weil Gotshal & Manges",
+      "provider": "html-jsonld",
+      "url": "https://www.weil.com/careers"
+    },
+    {
+      "id": "milbank-page",
+      "firmId": "milbank",
+      "company": "Milbank",
+      "provider": "html-jsonld",
+      "url": "https://www.milbank.com/en/careers.html"
+    },
+    {
+      "id": "dechert-page",
+      "firmId": "dechert",
+      "company": "Dechert",
+      "provider": "html-jsonld",
+      "url": "https://www.dechert.com/careers.html"
+    },
+    {
+      "id": "greenberg-traurig-page",
+      "firmId": "greenberg-traurig",
+      "company": "Greenberg Traurig",
+      "provider": "html-jsonld",
+      "url": "https://www.gtlaw.com/en/careers"
+    },
+    {
+      "id": "goodwin-page",
+      "firmId": "goodwin",
+      "company": "Goodwin",
+      "provider": "html-jsonld",
+      "url": "https://www.goodwinlaw.com/en/careers"
+    }
+  ],
+  "notes": {
+    "verified-feed": "A successfully fetched ATS listing is authoritative for that company board only.",
+    "html-jsonld": "Limited extraction of embedded JobPosting markup; no guarantee of job coverage, does not infer closure.",
+    "otherFirms": "Directory links only until a verified employer-specific integration is available."
+  }
+}
